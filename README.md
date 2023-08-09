@@ -8,3 +8,7 @@ Quản lý đơn hàng: Ứng dụng cho phép ghi lại các đơn hàng từ k
 Thống kê và báo cáo: Cung cấp các chức năng thống kê và báo cáo về doanh thu hàng ngày, tuần hoặc tháng. Điều này giúp quản lý có cái nhìn tổng quan về hiệu suất kinh doanh của quán cà phê.
 
 Quản lý bàn và đặt chỗ: Cho phép quản lý sắp xếp các bàn trong quán và theo dõi tình trạng của chúng. Người dùng cũng có thể ghi lại và xem thông tin đặt chỗ từ khách hàng.
+# Công nghệ sử dụng
+**Client:** Winform, C#
+
+**Server:** .NET, LinQ, SQL Server
